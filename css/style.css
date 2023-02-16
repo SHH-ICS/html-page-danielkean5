@@ -5,15 +5,15 @@
 
 body {
     background-color: powderblue;
-  }
+}
   
-  h1 {
+h1 {
     background-color: rgb(255 165 0);
     color: hsl(147deg 50% 47%);
     padding: 40px;
     text-align: center;
-  }
-  
-  p {
+}
+
+p {
     background-color: #f0f;
-  }
+}
