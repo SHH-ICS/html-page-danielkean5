@@ -4,42 +4,35 @@
 */
 
 body {
-    background-color: green;
-}
-  
+  background-color: green;
+} 
 h1 {
-    background-color: rgb(255 0 221);
-    color: hsl(239deg 50% 47%);
-    padding: 40px;
-    text-align: center;
-}
-  
+  background-color: rgb(255 0 221);
+  color: hsl(239deg 50% 47%);
+  padding: 40px;
+  text-align: center;
+}  
 p {
-    background-color: #e5ff00;
-}
-  
+  background-color: #e5ff00;
+} 
 ul {
-    color: beige;
-}
-  
+  color: beige;
+} 
 ul li::before {
-    content: "✅";
-}
-  
+  content: "✅";
+} 
 table {
-    border: solid thin;
-}
-  
+  border: solid thin;
+} 
 th {
-    height: 2rem;
-    background: red;
-    border: 1px solid white;
-    text-align: left;
-}
-  
+  height: 2rem;
+  background: red;
+  border: 1px solid white;
+  text-align: left;
+}  
 td {
-    height: 2rem;
-    background: lightblue;
-    border: 1px solid black;
-    text-align: center;
+  height: 2rem;
+  background: lightblue;
+  border: 1px solid black;
+  text-align: center;
 }
